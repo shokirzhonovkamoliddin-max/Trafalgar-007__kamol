@@ -128,9 +128,10 @@ li {
 }
 .intro .intro__btn:hover {
   transition: all 0.7s ease;
+  background-color: cyan;
 }
 .intro .intro__btn:active {
-  background: black;
+  background: rgb(119, 89, 230);
   transition: all 0.4s ease;
 }
 .intro .intro__img {
@@ -240,10 +241,11 @@ li {
 }
 .services .card__btn:hover {
   transition: all 1s ease;
+  background-color: cyan;
 }
 .services .card__btn:active {
   transition: all 0.4s ease;
-  background: black;
+  background: rgb(20, 7, 129);
 }
 
 @media (max-width: 1200px) {
@@ -318,9 +320,10 @@ li {
 }
 .leading .leading__btn:hover {
   transition: all 1s ease;
+  background-color: cyan;
 }
 .leading .leading__btn:active {
-  background: black;
+  background: rgb(22, 5, 154);
   transition: all 0.4s ease;
 }
 
@@ -411,9 +414,10 @@ li {
 }
 .mobile .mobile__btn:hover {
   transition: all 1s ease;
+  background-color: cyan;
 }
 .mobile .mobile__btn:active {
-  background: black;
+  background: rgb(11, 19, 108);
   transition: all 0.4s ease;
 }
 
@@ -679,9 +683,10 @@ li {
 }
 .check .check__btn:hover {
   transition: all 1s ease;
+  background-color: cyan;
 }
 .check .check__btn:active {
-  background: rgb(70, 70, 163);
+  background: rgb(3, 3, 83);
   transition: all 0.4s ease;
 }
 

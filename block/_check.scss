@@ -87,10 +87,11 @@
 
   .check__btn:hover {
     transition: all 1s ease;
+    background-color: cyan;
   }
 
   .check__btn:active {
-    background: rgb(70, 70, 163);
+    background: rgb(3, 3, 83);
     transition: all 0.4s ease;
   }
 }

@@ -74,11 +74,12 @@
 
   .card__btn:hover {
     transition: all 1s ease;
+    background-color: cyan;
   }
 
   .card__btn:active {
     transition: all 0.4s ease;
-    background: black;
+    background: rgb(20, 7, 129);
   }
 }
 

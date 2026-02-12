@@ -53,10 +53,11 @@
 
   .intro__btn:hover {
     transition: all 0.7s ease;
+    background-color: cyan;
   }
 
   .intro__btn:active {
-    background: black;
+    background: rgb(119, 89, 230);
     transition: all 0.4s ease;
   }
 
